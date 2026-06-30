@@ -556,6 +556,7 @@ body.light-theme .theme-toggle-btn .moon-icon {
 .hero-gradient-text {
   background: linear-gradient(135deg, var(--primary), var(--secondary));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
